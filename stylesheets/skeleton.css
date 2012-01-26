@@ -173,7 +173,7 @@
 
 /* #1200 Grid
 ================================================== */
-    @media only screen and (min-width: 1216px){
+    @media only screen and (min-width: 1216px) {
         .container                                  { position: relative; width: 1216px; margin: 0 auto; padding: 0; }
         .column, .columns                           { float: left; display: inline; margin-left: 8px; margin-right: 8px; }
         .row                                        { margin-bottom: 20px; }
