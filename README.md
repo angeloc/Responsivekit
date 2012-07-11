@@ -11,5 +11,7 @@ Responsivekit was born with a more deeply support for mobile world in mind, tryi
 
 I added also responsive tables to make the boilerplate as complete as possible.
 
+See it in action on http://responsivekit.com
+
 # web2py responsivekit
 web2py is the only framewrok to be responsive from the ground up, check the appropriate repo here [web2py-responsivekit](https://github.com/angeloc/web2py-responsivekit).
